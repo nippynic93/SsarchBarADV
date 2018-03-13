@@ -1,0 +1,66 @@
+<resources>
+    <string name="app_name">SsarchBarADV</string>
+    <string-array name="query_suggestions">
+        <item>Death by Chocolate Truffle Cake</item>
+        <item>Assorted Rakhi Eggless Sweets Box</item>
+        <item>RasMalai Cake</item>
+        <item>Eggless Ombre Ruffle Cake</item>
+        <item>Eggless Diwali Theme Cupcakes</item>
+        <item>Eggless Unicorn Themed Cakes</item>
+        <item>Eggless Fondant Minions Themed Cake 3D Version</item>
+        <item>Eggless Fondant Animals Jungle Theme Cake</item>
+        <item>Eggless Fondant Software Engineer Theme Cake</item>
+        <item>Eggless Fondant Shopping Girl Theme Cake</item>
+        <item>Eggless Fondant Music Lover Theme Cake</item>
+        <item>Eggless Fondant Minions Cakes 2D Version</item>
+        <item>Eggless Fondant Barbie Doll Themed Cakes</item>
+        <item>Eggless Chocolate Cake with Fondant Teddy</item>
+        <item>Eggless Angry Bird Theme Cake 2D</item>
+        <item>Eggless Designer Cupcakes</item>
+        <item>Eggless Ombre Cake</item>
+        <item>Eggless Butterfly Theme Cake</item>
+        <item>Cooking Classes</item>
+        <item>Eggless Rainbow Cake</item>
+        <item>Eggless Fresh Fruit Basket Cake</item>
+        <item>Sabudana Khichdi</item>
+        <item>Sabudana Cutlets</item>
+        <item>Holi Special Mewa Gujiya</item>
+        <item>Princess Castle Cake – Eggless</item>
+        <item>Home Made Thandai Drink</item>
+        <item>Special Dahi Vada</item>
+        <item>Chocolate Loaded Gujiyas</item>
+        <item>Tiered Naked Floral Cake</item>
+        <item>Assorted Chocolate Truffle</item>
+        <item>Heart of Love Cake</item>
+        <item>Valentine Red Velvet Cup Cakes</item>
+        <item>Home Made Chocolates</item>
+        <item>Heart Shaped Rose Cake – Eggless</item>
+        <item>Chocolate Rose Cup Cake</item>
+        <item>Eggless Doraemon Cake</item>
+        <item>Choco Chip Cookies</item>
+        <item>Eggless Chocolate Oreo Cake</item>
+        <item>Half n Half Double Flavour Cake</item>
+        <item>Potli Samosa</item>
+        <item>Mini Sweet Table</item>
+        <item>Eggless Red Velvet Cup Cakes</item>
+        <item>Coconut Laddoos</item>
+        <item>Ginger Chili Mushroom Fry Appetizer</item>
+        <item>Besan Laddoos</item>
+        <item>Fresh Fruit Cake</item>
+        <item>Eggless Chocolate Mousse and Ganache Cake</item>
+        <item>Eggless Chocolate Cakes</item>
+        <item>Eggless Bread Pudding (5 serves)</item>
+        <item>Special Paneer Jalebi</item>
+        <item>Rajasthani Pyaz ki Kachauri</item>
+        <item>Eggless Tiramisu Cake</item>
+        <item>Cinnamon Roll Bouquet</item>
+        <item>Eggless Red Velvet Cake</item>
+        <item>Eggless Swiss Rolls</item>
+        <item>Molten Choco Lava Cake</item>
+        <item>Eggless Apple Pie 1 Kg</item>
+        <item>Eggless Mickey Mouse Cake 2Kg</item>
+        <item>Eggless Doll Cake 2 Kg</item>
+        <item>Eggless Cup Cakes</item>
+        <item>Best Eggless Donuts</item>
+    </string-array>
+</resources>
